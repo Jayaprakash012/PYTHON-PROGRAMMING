@@ -1,4 +1,3 @@
-#take diameter as a input and calculate area of a circle
 diameter=float(input("enter diameter"))
 radious= diameter/2
 area = 3.14159*radious*radious
